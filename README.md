@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prashanth
-- 👀 I’m interested in Web Development, UI/UX Design
+- 👀 I’m interested in Web Design and Development.
 - 🌱 I’m currently learning FullStack Web Development
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
