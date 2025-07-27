@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Prashanth
-- 👀 I’m interested in Web Design and Development.
-- 🌱 I’m currently learning FullStack Web Development
+- 🌱 I’m currently working as Devops Engineer.
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
